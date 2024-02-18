@@ -50,23 +50,6 @@ nav ul li a:hover{
     
 }
 
-.product{
-    display: inline-block;
-    width: 300px;
-    margin: 30px;
-}
-
-.product img{
-    width: 100%;
-    border-radius: 5px;
-}
-
-.product p{
-    text-align: center;
-    margin-top: 5px;
-}
-
-
 
 
 
