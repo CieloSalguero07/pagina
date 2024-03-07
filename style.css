@@ -2,7 +2,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffcdd4;
 }
 
 header{
@@ -24,21 +23,15 @@ nav ul{
 }
 
 nav ul li{
-    display: inline-block;
-    margin-right: 20px;
+    display: inline;
+    margin-right: 10px;
 }
 
 nav ul li a{
     text-decoration: none;
-    color: black;
-    padding: 10px 15px;
-    display: inline-block;
-    transition: border-bottom 0.3s;
-    border-bottom: 2px solid transparent;
 }
 
 nav ul li a:hover{
-    border-bottom: 2px solid black;
     text-decoration: underline;
 
 }
@@ -54,14 +47,6 @@ nav ul li a:hover{
 .section h2{
     text-align: center;
     
-}
-
-.imagen{
-    text-align: center;
-}
-
-.imagen img{
-    border-radius: 5px;
 }
 
 
